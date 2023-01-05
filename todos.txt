@@ -4,3 +4,5 @@ Anything
 My newest todo is added
 And lastly
 Now edit again
+Fix the computerFix the lamp.
+Help the neighbour
